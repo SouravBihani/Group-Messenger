@@ -1,4 +1,4 @@
-# Group-Messenger
+# Group-Messenger2
 An android application similar to whatsapp which can be used as a group messenger across five emulators. It makes use of B-Multicast and implements total ordering.
 
 The port configuration used in the app is as follows: Each emulator listens on port 10000, but it will connect to a different port number on the IP address 10.0.2.2 for each emulator, as follows: emulator serial port emulator-5554 11108 emulator-5556 11112 emulator-5558 11116 emulator-5560 11120 emulator-5562 11124
