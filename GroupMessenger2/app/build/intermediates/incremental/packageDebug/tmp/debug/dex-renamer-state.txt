@@ -1,0 +1,4 @@
+#Sun Mar 24 23:20:06 EDT 2019
+base.0=/home/sourav/Downloads/GroupMessenger2/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
